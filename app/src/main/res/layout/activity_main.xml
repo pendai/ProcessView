@@ -7,7 +7,7 @@
     android:background="#000000"
     tools:context="com.dai.test.testview.MainActivity">
 
-<com.dai.test.testview.ProcessView
+<com.dai.test.testview.ProcessView2
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
 </RelativeLayout>
