@@ -45,7 +45,7 @@ public class ProcessView extends View {
     {
         paint.setTextSize(dpToPixel(40));
         paint.setTextAlign(Paint.Align.CENTER);
-        animator.setRepeatCount(-1);
+   //     animator.setRepeatCount(-1);
         animator.setDuration(1000);
         animator.setInterpolator(new FastOutSlowInInterpolator());
     }
